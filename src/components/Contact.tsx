@@ -10,21 +10,21 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:example@mail.com" data-cursor="disable">
-                abc@gmail.com
+              <a href="mailto:anshporwal2608@gmail.com" data-cursor="disable">
+                anshporwal2608@gmail.com
               </a>
             </p>
             <h4>Phone</h4>
             <p>
-              <a href="tel:+919920782622" data-cursor="disable">
-                +91 9988776655
+              <a href="tel:+916386294431" data-cursor="disable">
+                +91 6386294431
               </a>
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com"
+              href="https://github.com/ansh2608"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -32,7 +32,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com"
+              href="https://www.linkedin.com/in/ansh2608/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -40,15 +40,15 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com"
+              href="https://leetcode.com/u/ansh2608/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Leetcode <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/a.n.s.h.p"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -58,7 +58,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Kabir Singh</span>
+              Designed and Developed <br /> by <span>Ansh Porwal</span>
             </h2>
             <h5>
               <MdCopyright /> 2025
