@@ -15,44 +15,42 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
+                <h4>Research Intern</h4>
                 <h5>Company Name</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            Analyzed and categorized over 25,000 Twitter sentences into abusive, non- abusive, and mixed categories, 
+            leveraging Python and advanced Natural Language Processing (NLP) techniques.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Computer Science Tutor</h4>
+                <h5>Chegg Inc.</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>2023</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+            Enhanced understanding of computer science concepts by providing solutions to 
+            complex academic problems, leveraging strong problem-solving skills and advanced subject knowledge.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>Founder & President</h4>
+                <h5>Blockchain Club Vitb</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
+            Led collaboration among 50 team members across six divisions, using data analysis 
+            to improve communication and resolve bottlenecks, boosting efficiency by 30% in three months.
+            </p>  
+            
           </div>
         </div>
       </div>
